@@ -1,0 +1,16 @@
+Linguagem utilizada: JS
+
+Frontend:
+
+- React (Framework principal para desenvolvimento web);
+- Vite (Framework para otimização, desempenho e performance da aplicação web);
+- Redux (Ferramente para facilitação de requisições HTTP entre o server side e o client side);
+- Fetch API (Biblioteca para requisição HTTP);
+- JSON (Manipulação de dados em objetos js);
+- MUI (Framework em react feito com componentes para modelagem de design, tipografia e layout);
+- Node.js (Ambiente de desenvolvimento JS);
+- SPA (Single Page Application, transforma múltiplas rotas em só página dinâmica);
+- React-DOM (Ferramenta de react que transcreve códigos e componentes JS em HTML);
+- React Router (Biblioteca de react que faz os links da aplicação e a transforma em uma Single Page Application);
+- React Native (Framework derivado de react que transforma web aplicações em aplicações móveis);
+- Formik (Biblioteca que visa facilitar a criação de formulários react).

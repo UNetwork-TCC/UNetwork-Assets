@@ -1,0 +1,15 @@
+Linguagem utilizada: JS
+
+Backend:
+
+- Requisições HTTP (Meio de comunicação entre o server side e o client side);
+- API RESTful (API's baseada em requisições HTTP que retornam diferentes tipos de respostas para o client e server side);
+- MongoDB (Banco de dados não relacional em nuvem que utiliza Node.js)
+- FirabaseDB API (Utilização da API do do FirabaseDB para autenticação por meio de terceiros, como google e github);
+- Express.js (Biblioteca que instância o servidor);
+- Axios.js (Biblioteca que cria a API);
+- Bcrypt.js (Ferramenta de criptografia de dados);
+- Web sockets (Tecnologia para criar uma ligação entre um cliente e um servidor em tempo real);
+- Socket.io (Biblioteca JS que cria um servidor com comunicação em tempo real entre o server e o client side);
+- JSON Web Token ou JWT (Ferramenta que auxlia a autenticação de usuários com tokens e cookies);
+- Dotenv (Ferramenta em JS que instancia variáveis de ambiente para a aplicação).

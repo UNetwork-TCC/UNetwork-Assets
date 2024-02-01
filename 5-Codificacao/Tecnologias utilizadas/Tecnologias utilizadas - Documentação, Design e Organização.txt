@@ -1,0 +1,9 @@
+Documentação, Design e Organização:
+
+- Clickup (Software gestor de projeto);
+- Discord (Software para auxiliar a gestão do projeto);
+- Zappier (Ferramenta web que integra a API de múltiplos sistemas para manter a informação entre os aplicativos para o grupo)
+- Microsoft Word (Sofwatare que cria documentos);
+- Figma (Software que facilita a criação de protótipos);
+- Photoshop (Software auxiliar no design);
+- Google Docs (Ferramenta web que auxilia na criação e alteração de documentos)
