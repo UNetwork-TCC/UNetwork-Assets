@@ -1,0 +1,54 @@
+Tema: Rede Social para fins acadêmico, profissional e social.
+Público-alvo: Juvenil
+
+Nome: UNetwork
+
+IDEIA:
+
+    Rede social similar ao Instagram e Discord, contendo informações sociais das pessoas e grupos de diferentes interesses e tópicos.
+    Inicialmente, os interesses devem ser dividos entre: Social, Acadêmico e Profissional, sendo o profissional limitado somente aos funcionários doscentes. 
+    A plataforma conta com a exclusividade das notícias, se adpatando aos interesses do usuário além de novidades comuns que possam ocorrer na ETEC.
+
+===========================
+
+MECÂNICAS:
+    Ao se registrar, o usuário pode escolher por qual finalidade será o uso não se limitando a apenas a escolha dele, podendo usar para conversar mais também para estudar, por exemplo. A escolha é somente uma dádiva para facilitar a interação com o usuário com o seu interesse.
+    Ao entrar no aplicativo, existem abas de navegação com finalidades próprias. Na primeira aba, tem que haver o "feed" do indivíduo, contendo publicações e notícias de seu interesse. Além disso, uma outra aba para entrar em grupos tem que ser criada, onde o usuário pode filtrar por tópicos o(s) grupo(s) desejado(s). E por último, canal privado e temporário de conversações com qualquer outro usuário.
+
+===========================
+
+SOCIAL:
+    Criado apenas para conversas tanto fora quanto dentro do tópico escolar. A princípio, deve ser público e qualquer um poderá ver sua publicação, podendo assim, chamar você para conversar ou seguir seu perfil. No privado, irá ocorrer outras interações.
+
+ACADÊMICO:
+    Baseado em conhecimento, esta opção encontra pessoas que também possuem essa opção como parâmetro para formar um grupo de estudos ou conversar sobre, facilitando e apoiando a ideia de tutoria bem como de apadrinhamento.
+
+PROFISSIOAL:
+    Feito para os professores, usuários presentes neste tópico, podem postar suas próprias notícias de suas próprias matérias para os alunos, além de dar suporte na tutoria e planejar seus planos de aula.
+IDEIAS ABSTRATAS:
+    - Cores para cada caso de opções de uso diferentes (social, acadêmico e profissional);
+    - Notícias sobre o exterior automatizadas (O Pacheco disse que pode gerenciar o jornal manualmente);
+
+===========================
+
+OUTRAS IDEIAS:
+    - Apoio a ideia de ter Status/Stories;
+    - Sem pedido de amizade, é antiquado, mais fácil é seguir quem você deseja;
+    - Ter uma aba específica para recomendações e sugestões para a escola como um todo (grêmio, funcionários, professores, direção, aulas, coordenação, etc), assim como o próprio aplicativo;
+    - Linkar com o NSA e/ou a coordenação para enviar dados como PDT dos professores ou outras informações úteis para os alunos e até mesmo outros professores;
+    - Por ser um APP para escola, achei legal colocar uma opção de digitalizar a carterinha, isso no próprio APP.
+PROJETO - UNetwork
+
+CORES - IDEIA I
+=======================
+    - Tema claro e tema escuro;
+    - Tons em azul;
+    - Tons leves.
+
+===========================
+
+EXPERIÊNCIAS DO USUÁRIO - IDEIA I
+
+===========================
+
+Uma boa ideia seria se o usuário podesse, ao fazer o registro, escolher "tags" que estarão dentro das 4 duvisões principais e assim, criando um perfil totalmente do usuário e com base nas suas próprias escolhas
