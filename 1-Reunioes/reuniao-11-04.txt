@@ -1,0 +1,20 @@
+RELATÓRIO - SEMANA 07 
+INÍCIO - 18:11 - 11/04/2023
+TÉRMINO - 18:47 - 11/04/2023
+
+- Orientações sobre atividades;
+- Término das atividades bimestrais;
+- Ínicio do desenvolvimento backend;
+- Verificação do progresso da equipe;
+- Planejamentos futuros;
+- Design da aplicação;
+- Protótio de baixa e média fidelidade.
+
+OBJETVIOS DA SEMANA
+- Desenvolver atividades para o backend;
+- Terminar atividades bimestrais;
+- Terminar protótipo de baixa fidelidade;
+- Terminar design;
+- Ficar atento as atividades do clickup e aos relatórios do discord.
+
+Todos estavam presentes na reunião ✅ 

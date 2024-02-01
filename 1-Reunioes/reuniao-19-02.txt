@@ -1,0 +1,14 @@
+RELATÓRIO - SEMANA 01 
+INÍCIO - 14:06 - 19/02/2023
+TÉRMINO - 14:58 19/02/2023
+
+- Apresentação das plataformas que serão utilizadas ao longo da execução do projeto
+- Demonstrações das ferramentas importantes para o desenvolvimento da aplicação
+
+OBJETVIOS DA SEMANA
+- Dedicar-se em JS / React
+- Comprrender o que é MUI e seu componentes
+- Estudar MongoDB, principalmente os desenvolverdores Back-End. No entanto, recomenda-se que todos os integrante deêm um certa atenção a este tópico
+- API (O que é e como funciona)
+
+Todos estavam presentes na reunião ✅ 

@@ -1,0 +1,15 @@
+RELATÓRIO - SEMANA 05 
+INÍCIO - 18:05 - 28/03/2023
+TÉRMINO - 18:25 - 28/03/2023
+
+- Configuração e explicação sobre o desenvolvimento;
+- Ínicio do desenvolvimento backend;
+- Verificação do progresso da equipe.
+
+OBJETVIOS DA SEMANA
+- Aprender desenvolvimento backend;
+- Utilizar mongodb;
+- Pesquisar sobre desenvolvimento backend;
+- Terminar tarefas pendentes.
+
+Todos estavam presentes na reunião ✅ 

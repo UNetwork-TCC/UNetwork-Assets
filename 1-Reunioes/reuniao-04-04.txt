@@ -1,0 +1,17 @@
+
+RELATÓRIO - SEMANA 06 
+INÍCIO - 18:15 - 04/04/2023
+TÉRMINO - 18:45 - 04/04/2023
+
+- Queixa sobre atividades;
+- Orientações sobre desenvolvimento e organização;
+- Verificação do progresso da equipe.
+
+OBJETVIOS DA SEMANA
+- Aprender desenvolvimento backend;
+- Utilizar redux;
+- Iniciar desenvolvimento backend;
+- Terminar tarefas pendentes.
+- Terminar protótipo de baixa fidelidade
+
+Todos estavam presentes na reunião ✅ 

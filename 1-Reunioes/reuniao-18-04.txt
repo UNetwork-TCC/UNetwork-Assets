@@ -1,0 +1,18 @@
+RELATÓRIO - SEMANA 08
+INÍCIO - 18:01 - 18/04/2023
+TÉRMINO - 18:12 - 18/04/2023
+
+- Orientações sobre atividades;
+- Preparação para a apresentação do dia 26/04
+- Continuação do desenvolvimento backend;
+- Verificação do progresso da equipe;
+- Planejamentos futuros;
+- Protótipo de baixa fidelidade.
+
+OBJETVIOS DA SEMANA
+- Desenvolver atividades para o backend;
+- Desenvolver slides para a apresentação;
+- Terminar protótipo de baixa fidelidade;
+- Ficar atento as atividades do clickup e aos relatórios do discord.
+
+Todos estavam presentes na reunião ✅

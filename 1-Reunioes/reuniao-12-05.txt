@@ -1,0 +1,23 @@
+RELATÓRIO - SEMANA 11 
+INÍCIO - 18:03 - 12/05/2023
+TÉRMINO - 18:35 - 12/05/2023
+
+- Preparação para a apresentação do mapa mental do livro "Scrum Gestão Ágil para Projetos de Sucesso";
+- Verificação do progresso da equipe;
+- Protótipo de baixa fidelidade e média fidelidade;
+- Reorganização quanto as atividades propostas;
+- Comentários sobre o desenvolvimento front-end e o desenvolvimento back-end;
+- Relembranças sobre pastas e método de desenvolvimento para o projeto;
+- Início do desenolvimento front-end.
+
+OBJETVIOS DA SEMANA
+
+- Terminar slides e revisar conteúdo para apresentação;
+- Terminar protótipo de baixa e média fidelidade;
+- Ficar atento as atividades do clickup e aos relatórios do discord.
+- Reavaliar códigos;
+- Estudar desenolvimento front-end;
+- Estudar projetos full-stack;
+- Organizar as atividades atribuídas.
+
+Todos estavam presentes na reunião ✅ 

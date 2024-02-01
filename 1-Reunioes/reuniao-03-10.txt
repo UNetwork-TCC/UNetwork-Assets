@@ -1,0 +1,17 @@
+RELATÓRIO - SEMANA 26
+INÍCIO - 18:03 - 03/10/2023
+TÉRMINO - 18:40 - 03/10/2023
+
+- Finalizar protótipos;
+- Finalizar design;
+- Finalizar funcionalidades;
+- Conversão do projeto para TS (Typescript);
+- Mostando como funciona o Typescript;
+
+OBJETVIOS DA SEMANA
+
+- Realizar atividade de prototipagem;
+- Prover funcionalidades para o projeto
+- Focar na programação e finalização dos protótipos.
+
+Vitor Hugo Messias não estava presente na reunião 
